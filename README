@@ -1,0 +1,1 @@
+Obtains digital magazine metadata from Ark database and generates issues in Woodwing Enterprise, a digital magazine asset management tool, as both folio and print. Eliminates manual data entry and reduces labor and time per digital magazine issue, approximately ~2000 issues will be automatically created with Cron a year.

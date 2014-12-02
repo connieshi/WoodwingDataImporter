@@ -1,6 +1,6 @@
 /**
  * Issue to add to Woodwing
- * @author shic
+ * @author Connie Shi
  *
  */
 public class WoodwingIssue {

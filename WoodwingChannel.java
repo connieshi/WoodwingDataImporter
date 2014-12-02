@@ -4,7 +4,7 @@ import java.util.HashMap;
 /**
  * Channel containing a list of issues to add to Woodwing
  * Generally channel is FOLIO or Print
- * @author shic
+ * @author Connie Shi
  *
  */
 public class WoodwingChannel {

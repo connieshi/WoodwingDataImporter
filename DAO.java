@@ -12,7 +12,7 @@ import org.apache.logging.log4j.Logger;
 
 /**
  * Data Access Object for every publication
- * @author shic
+ * @author Connie Shi
  *
  */
 public class DAO {

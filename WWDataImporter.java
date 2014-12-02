@@ -21,7 +21,7 @@ import org.xml.sax.SAXException;
 
 /**
  * Uses issue data from Ark to add records into Woodwing's tables: smart_issues and smart_channeldata
- * @author shic
+ * @author Connie Shi
  *
  */
 public class WWDataImporter {

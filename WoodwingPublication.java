@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Publication in Woodwing containing a list of channels related to each publication
- * @author shic
+ * @author Connie Shi
  *
  */
 public class WoodwingPublication {
